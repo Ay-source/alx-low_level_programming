@@ -1,10 +1,11 @@
 #include <stdio.h>
 
 /**
- * main - Executes the main part of the program
+ * main - The main part of the program
  *
- * Return: 0 if program executed successfully
+ * Return: 0 if the program executes successfully
  */
+
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
