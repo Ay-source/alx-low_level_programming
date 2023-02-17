@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - Prints a string with the puts function
+ * main - Executes the main part of the program
+ *
+ * Return: 0 if program executed successfully
  */
 int main(void)
 {
