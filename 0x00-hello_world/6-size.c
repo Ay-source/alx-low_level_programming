@@ -1,7 +1,10 @@
 #include <stdio.h>
 
-/**                                                                                                                      * main - Executes the main part of the program                                                                          *                                                                                                                       * Return: 0 if program executed successfully                                                                            */  
-
+/**
+ * main - Executes the main part of the program
+ *
+ * Return: 0 if program executed successfully
+ */
 int main(void)
 {
 	printf("Size of a char: %li byte(s)\n", sizeof(char));
